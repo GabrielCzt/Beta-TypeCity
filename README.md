@@ -1,0 +1,1 @@
+Esta es una versión beta de TypeCity que incluye funcionalidades limitadas y solamente tres niveles de dificultad. Para su ejecución, es necesario descargar el respositorio completo, pues es una versión portable del juego, que requiere de los archivos adjuntos. 
